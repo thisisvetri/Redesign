@@ -1,0 +1,71 @@
+<div class="list">
+<p>
+Vetrivelu.S (C)<br>                   
+right/top-order<br>         
+right/off-spinner<br>
+
+
+Ganesh Kumar.P<br>               
+right/top-order<br>              
+ NA<br>
+                 
+
+ Dilip Kumar.S<br>               
+  right/top-order<br>           
+  right/fast<br>   
+
+
+  Venkatesha Perumal.P<br>               
+  left/top-order<br>         
+  right/medium<br>  
+
+
+  Santhosh Paul<br>             
+   right/middle-order<br>            
+    NA<br>
+
+
+    Ajith Kumar.R (wk)(VC)<br>              
+    right/middle-order<br>             
+    NA<br>
+
+
+    Gopi.M<br>          
+    right/middle-order<br>  
+    right/medium<br>
+
+    Arun Kumar.R<br>          
+    right/middle-order<br>
+     right/medium<br>
+
+
+     Mukesh Babu<br>         
+     right/top-order<br>     
+     NA<br>
+
+
+     Sharath Ramalingam<br>               
+     right/middle-order<br>      
+     right/medium<br>
+
+
+     Rajeshwar.K<br>        
+      right/middle-order<br>     
+        NA<br>
+
+
+        Prasanth.S<br>                
+        right/low-order<br>      
+        right/medium-fast<br>
+
+
+        Balaji.S<br>         
+        right/low-order<br>
+        right/medium<br>
+
+        Dinesh Kumar.R<br>         
+        right/middle-order<br>
+        left/fast<br>
+</p>
+</div>
+
